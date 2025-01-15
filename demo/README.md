@@ -25,7 +25,7 @@ This is a simple Spring Boot application for managing waste types and their corr
    
 2. Run Application
     - 'Run Icon' In Main Application file
-    - Commandline 'mvn clean install'
+    - Commandline 'mvn clean install' / click Run on Application.java
     - on the browser visit H2 Database console 'http://localhost:8080/h2-console/'
     - make sure JDBC URL: 'jdbc:h2:mem:testdb'
     - leave password blank continue and then inset value
